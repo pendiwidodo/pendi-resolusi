@@ -1,0 +1,6 @@
+RENCANA FITUR WEB WEBSITE MANAJAEMENT INFORMASI BARANG
+- fitur input barang dengan detail pengisian waktu saat ini secara otomatis
+- fitur responsif
+- fitur siapa yang nginput, ngedit,ngedelete dan ngeupdate datanya
+- fitur multiinput
+- fitur input, edit, delete, update tanpa refresh
